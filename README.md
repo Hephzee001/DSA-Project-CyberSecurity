@@ -22,6 +22,16 @@
 - Kali Linux
 
 
+### Tools Installation and Preparations
+---
+    In  the initial phase of the tools installation and preparations, the following actions was performed;
+   
+   - Downloading of Virtual Box 
+   
+   - Downloading of VM Ware
+   
+   - Downloading of Kali Linux
+
 
 
 

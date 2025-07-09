@@ -21,6 +21,8 @@
   
 - Kali Linux
 
+-Windows 10 ISO
+
 
 ### Tools Installation and Preparations
 ---
@@ -31,11 +33,12 @@
    - Downloading of VM Ware
    
    - Downloading of Kali Linux
+   
+   - Downloading of Windows 10 ISO
 
 
 
-
-- Windows 10 ISO
+  
  
  
  

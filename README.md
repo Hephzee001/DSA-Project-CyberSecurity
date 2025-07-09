@@ -11,6 +11,18 @@
  virtual machine(Kali Linux) as the attacker environment.
 
  This is meant to test the vulnurability of the target environment(Windows 10 ISO).
+
+
+  ### Tools Used
+ ---
+- Virtual Box
+
+- VM ware
+  
+- Kali Linux
+
+- Windows 10 ISO
+ 
  
  
 

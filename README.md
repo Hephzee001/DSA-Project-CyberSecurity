@@ -1,4 +1,4 @@
-# Class-Project-Dashboard
+# Project-Dashboard
 
  ### Project Title: Virtual CyberSecurity Lab Setup
 
